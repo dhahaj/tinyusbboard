@@ -1,0 +1,73 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\Users\dmh\Desktop\tinyusb\tinyusb.brd
+    Analyzing data of C:\Users\dmh\Desktop\tinyusb\tinyusb.brd
+    Load settings
+    Load layers 128
+    Load Library "atmel"
+    Load Packages 1
+    Load Library "resistor"
+    Load Packages 4
+    Load Library "diodes"
+    Load Packages 1
+    Load Library "crystal"
+    Load Packages 1
+    Load Library "pinhead"
+    Load Packages 2
+    Load Library "SparkFun"
+    Load Packages 2
+    Load Library "buttons"
+    Load Packages 1
+    Load Library "led"
+    Load Packages 1
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\dmh\Desktop\tinyusb\tinyusbboard.sch
+    Analyzing data of C:\Users\dmh\Desktop\tinyusb\tinyusbboard.sch
+    Load settings
+    Load layers 126
+    Load schematic
+    Load Libraries 9
+    Load Library "atmel"
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "resistor"
+    Load Packages 143
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "pinhead"
+    Load Packages 4
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "diodes"
+    Load Packages 9
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun"
+    Load Packages 24
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "buttons"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "led"
+    Load Packages 37
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "crystal"
+    Load Packages 21
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 56
+    Load Sheets 1
+EndSection
